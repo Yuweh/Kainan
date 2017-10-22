@@ -1,0 +1,11 @@
+Used the ff.
+
+Label
+TextField
+Button
+UIImage
+
+Clicking the textfield make the keyboard appear
+the keyboard was modified to have it change to return to done 
+The inputted data was passes to label and be changed
+
